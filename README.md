@@ -1,4 +1,6 @@
 <!-- Banner (Optional) -->
+![Header](./github-header-image-name.png)
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=GAURANGA%20KUMAR%20BAISHYA&fontSize=30&fontColor=ffffff)
 
 <!-- Greeting / Intro -->
