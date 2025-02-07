@@ -45,26 +45,3 @@ I am currently working in the field of **Data Science** and **AI**. Currently a 
 </p>
 
 ---
-
-## 📊 GitHub Stats:
-<div >
-  <img src="https://github-readme-stats.vercel.app/api?username=Gauranga2022&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=false" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gauranga2022&theme=rose_pine&hide_border=true" height="180em"/>
-</div>
-
-<div >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauranga2022&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="150em"/>
-</div>
-
----
-
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=Gauranga2022&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div>
-
-<!-- Footer Banner (Optional) -->
-<!-- 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
--->
