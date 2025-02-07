@@ -1,11 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=GAURANGA%20KUMAR%20BAISHYA&fontSize=30&fontColor=ffffff)
-
-<!-- Greeting / Intro -->
 <div align="center">
-  <h2>Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Welcome to my Profile!</h2>
+
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=I%20Am%20GAURANGA&fontSize=50&fontColor=ffffff)
+  <h2>Welcome to my profile!</h2>
+  </h2><img src="https://64.media.tumblr.com/b08b79a65c21db27c5a2e19673c40d3a/57883f5394bb4131-21/s540x810/8a021428486c7c79338a24d202a1254d3fc236d2.gifv" alt="" width="400"><br>
+  
 </div>
 
----
 
 ## 👨‍💻 About Me:
 I am currently working in the field of **Data Science** and **AI**. Currently a grad student at Chennai Mathematical Institute (CMI) and a researcher at Harvard Medical School. I enjoy Teaching, Solving puzzles and math olympiad problems, Competitive coding and Watching movies. I love reading nonfiction. I’m also into traveling and landscape/still-life/portrait photography, sketching and writing philosophical/biographical articles. Feel free to ping me on any of my social media handles if you’re interested in exchanging ideas!
